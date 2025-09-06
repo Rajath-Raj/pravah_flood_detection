@@ -4,13 +4,22 @@
 
 ## 📋 Project Overview
 
-**Pravah** is a beginner-friendly machine learning project for learning data science fundamentals. The goal is to build a **binary classification** model that can predict whether a disaster event is a **Flood** or some **Other** type of disaster.
+**Pravah** is a beginner-friendly machine learning project for learning data science fundamentals. Pravah is a beginner-friendly machine learning project for learning data science fundamentals. This project focuses on building a binary classification model to predict the severity of a flood event using a range of geographical and meteorological features.
 
-### 🎯 Learning Goals
-- Learn basic data exploration and analysis
-- Understand how to work with CSV datasets
-- Practice using pandas, numpy, and visualization libraries
-- Build my first machine learning classification model
+🎯 Learning Goals
+
+The primary goal is to build a robust data pipeline that prepares the dataset for a binary classification task. The key learning objectives achieved in this project include:
+
+Exploratory Data Analysis (EDA): Performing a thorough analysis of the dataset to understand feature distributions, identify anomalies (such as the high number of zero values in the distance column), and examine correlations between variables.
+
+Data Cleaning & Preprocessing: Identifying and handling columns that could lead to data leakage (Total Deaths, Total Affected) and preparing the data for modeling.
+
+Feature Engineering: Creating a new, meaningful target variable (Is_Severe_Flood) from existing features. This was the critical step that enabled the project to move forward.
+
+Model Preparation: Implementing a standard machine learning workflow, including splitting the data into training and testing sets and applying feature scaling with StandardScaler.
+
+Library Proficiency: Gaining hands-on experience with core Python libraries: Pandas for data manipulation, NumPy for numerical operations, Matplotlib/Seaborn for visualization, and Scikit-learn for preprocessing and modeling.
+
 
 ## 🏗️ Current Project Structure
 
