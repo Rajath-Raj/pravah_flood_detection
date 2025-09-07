@@ -4,7 +4,7 @@
 
 ## 📋 Project Overview
 
-**Pravah** is a beginner-friendly machine learning project for learning data science fundamentals. Pravah is a beginner-friendly machine learning project for learning data science fundamentals. This project focuses on building a binary classification model to predict the severity of a flood event using a range of geographical and meteorological features.
+**Pravah** is a beginner-friendly machine learning project for learning data science fundamentals. This project focuses on building a binary classification model to predict the severity of a flood event using a range of geographical and meteorological features.
 
 🎯 Learning Goals
 
