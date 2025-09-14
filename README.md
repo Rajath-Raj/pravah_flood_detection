@@ -215,9 +215,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 | Feature | Screenshot | Description |
 |---------|------------|-------------|
-| **🏠 Home Page** | *Add home page screenshot here* | Project overview with dataset statistics and quick data preview |
-| **✅ Non-Severe Prediction** | *Add non-severe prediction screenshot here* | Green checkmark showing low flood risk prediction |
-| **🚨 Severe Prediction** | *Add severe prediction screenshot here* | Red warning showing high flood risk prediction |
+| **🏠 Home Page** |<img width="1812" height="879" alt="Screenshot 2025-09-14 205533" src="https://github.com/user-attachments/assets/fc7478c4-4c2f-4aff-a9af-6c4bf5ff08a3" />
+ | |
+| **✅ Non-Severe Prediction** |<img width="1918" height="879" alt="Screenshot 2025-09-14 205626" src="https://github.com/user-attachments/assets/9472f4a7-f765-45ba-823d-951ae1225234" />
+ | Green checkmark showing low flood risk prediction |
+| **🚨 Severe Prediction** |<img width="1904" height="856" alt="Screenshot 2025-09-14 205653" src="https://github.com/user-attachments/assets/d559b3cc-961c-416c-b3b8-34aad0a7fd53" />
+| Red warning showing high flood risk prediction |
 
 ### **Key Achievements**
 - 🌊 **Full-stack data science project** from data to deployment
