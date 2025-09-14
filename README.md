@@ -211,8 +211,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🎉 **Project Showcase**
 
-### **Screenshots**
-*Add screenshots of your Streamlit app here when you take them*
+### **📸 App Screenshots**
+
+| Screenshot | Page/Feature | Description |
+|------------|--------------|-------------|
+| *[Add Home Page Screenshot Here]* | **🏠 Home Page** | Dataset overview, project statistics, and quick data preview |
+| *[Add Data Exploration Screenshot Here]* | **📊 Data Exploration** | Dataset information, statistical summaries, and missing value analysis |
+| *[Add Visualizations Screenshot Here]* | **📈 Visualizations** | Correlation heatmaps, feature distributions, and scatter plots |
+| *[Add Model Training Screenshot Here]* | **🤖 Model Training** | Model parameters, training results, confusion matrix, and classification report |
+| *[Add Non-Severe Prediction Screenshot Here]* | **✅ Non-Severe Prediction** | ✅ **LOW FLOOD RISK** - Green success message with confidence scores |
+| *[Add Severe Prediction Screenshot Here]* | **🚨 Severe Prediction** | 🚨 **HIGH FLOOD RISK** - Red alert message with confidence scores |
+
 
 ### **Key Achievements**
 - 🌊 **Full-stack data science project** from data to deployment
